@@ -1,6 +1,6 @@
 # MVC Practice
 
-Simple Todo MVC Application in Vanilla JavaScript
+Simple Todo MVC Application in Vanilla JavaScript based of Tania Rascia blog post.
 
 ### What I Learned
 
